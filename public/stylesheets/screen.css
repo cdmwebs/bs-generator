@@ -1,0 +1,20 @@
+h1 {
+  width: 50%;
+  margin: 1em auto;
+  color: #222;
+  font-family: 'Molengo', serif;
+  font-size: 82px;
+  font-style: normal;
+  font-weight: 400;
+  text-shadow: 2px 2px 2px #aaa;
+  text-decoration: none;
+  text-transform: capitalize;
+  letter-spacing: 0em;
+  word-spacing: 0em;
+  line-height: 1em;
+}
+#footer p {
+  color: #999;
+  font: 60% Helevtica, sans-serif;
+  text-align: center;
+}
